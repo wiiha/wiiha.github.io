@@ -1,2 +1,2 @@
 # wiiha.github.io
-my page
+This is my digital CV. It is design using [new.css](https://newcss.net/).
